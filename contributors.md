@@ -14,7 +14,7 @@
 ### sujita
 - 📱 Mobile App Enthusiast
 - 🔐 Learning about mobile app
-- 🔗 GitHub: [@sujita010](https://github.com/sujita010)
+- 🔗 GitHub: [@sujita010](./people/sujita.md)
 
 ### Praagya Devkota
 - 📱 Graphics Enthusiast
