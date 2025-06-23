@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ramesh Bista
+# 👋 Hello, I'm Praagya Devkota
 
 Welcome to my personal developer portfolio, built with 💙 using **GitHub Pages** and Markdown.
 
