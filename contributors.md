@@ -21,3 +21,8 @@
 - 🔐 Learning about Github and Graphics
 - 🔗 GitHub: [@Praagya007](./people/praagya.md)
 
+### Mala Deep Sir
+- 🧠 Data Scientist
+- 💼 I do interesting things
+- 🔗 GitHub: [@maladeep](https://github.com/maladeep)
+
