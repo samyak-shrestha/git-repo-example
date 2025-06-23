@@ -11,7 +11,13 @@
 - 🔐 Learning about SSH and security
 - 🔗 GitHub: [@rameshbista](./people/ramesh-bista.md)
 
+### sujita
+- 📱 Mobile App Enthusiast
+- 🔐 Learning about mobile app
+- 🔗 GitHub: [@sujita010](https://github.com/sujita010)
+
 ### Praagya Devkota
 - 📱 Graphics Enthusiast
 - 🔐 Learning about Github and Graphics
 - 🔗 GitHub: [@Praagya007](https://github.com/Praagya007)
+
