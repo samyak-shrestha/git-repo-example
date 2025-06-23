@@ -9,4 +9,4 @@
 ### Ramesh Bista
 - 📱 Mobile App Enthusiast
 - 🔐 Learning about SSH and security
-- 🔗 GitHub: [@rameshbista](./ramesh-bista.md)
+- 🔗 GitHub: [@rameshbista](./people/ramesh-bista.md)
