@@ -10,3 +10,8 @@
 - 📱 Mobile App Enthusiast
 - 🔐 Learning about SSH and security
 - 🔗 GitHub: [@rameshbista](./people/ramesh-bista.md)
+
+### sujita
+- 📱 Mobile App Enthusiast
+- 🔐 Learning about mobile app
+- 🔗 GitHub: [@sujita010](https://github.com/sujita010)
