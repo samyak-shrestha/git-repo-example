@@ -21,3 +21,7 @@
 - 🔐 Learning about Github and Graphics
 - 🔗 GitHub: [@Praagya007](./people/praagya.md)
 
+### Jenifa Rijal
+- 📱 Graphics Enthusiast
+- 🔐 Learning about Github and Graphics
+- 🔗 GitHub: [@zenivarijal](https://github.com/zenivarijal/)
