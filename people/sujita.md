@@ -1,4 +1,4 @@
- # 👋 Hello, I'm sujita ghising
+ # 👋 Hello, I'm Sejli
 
 Welcome to my personal developer portfolio, built with 💙 using **GitHub Pages** and Markdown.
 
